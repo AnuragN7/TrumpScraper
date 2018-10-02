@@ -1,5 +1,5 @@
 # TrumpScraper
-A basic web scraper that analyzed one of Trump's campaign speeches online. The scraper looked for the contexts in which certain words were used.
+A basic web scraper that analyzed one of Trump's campaign speeches online. The scraper looked for the contexts in which certain words were used. The speech analyzed can be found here: https://www.washingtonpost.com/news/the-fix/wp/2016/08/19/donald-trumps-best-speech-of-the-2016-campaign-annotated/?utm_term=.27e983cc1748
 
 
 Using the scraper:
