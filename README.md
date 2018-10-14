@@ -6,7 +6,7 @@ Using the scraper:
 
 Linux or MacOS systems: 
 
-Once you've downlaoded the repo, navigate to the directory where it is installed. 
+Once you've downlaoded the repo, navigate to the directory where it has been cloned to. 
 
 Type in 'python3 -i scraper.py'.
 Once you're running the interpreter, simply type in 'get_associated_words()' and enter whatever word you want to search for as the parameter. 
